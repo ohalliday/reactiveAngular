@@ -21,3 +21,4 @@ npm start
 ```
 
 This will both boot up a data server on localhost:3000 and serve the frontend on localhost:4200.
+# reactiveAngular
